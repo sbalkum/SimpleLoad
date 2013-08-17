@@ -1,4 +1,4 @@
-           //scriptcs c:\warmachine.csx
+           //scriptcs c:\Attacker.csx
             int maxLoops = 16192;
             string urlBase = "http://basmaster.cloudapp.net/";
 
